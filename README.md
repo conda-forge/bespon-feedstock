@@ -5,7 +5,7 @@ Home: http://github.com/gpoore/bespon_py
 
 Package license: BSD 3-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Python library for BespON
 
