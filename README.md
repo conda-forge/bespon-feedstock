@@ -5,9 +5,13 @@ Home: http://github.com/gpoore/bespon_py
 
 Package license: BSD 3-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/bespon-feedstock/blob/master/LICENSE.txt)
 
 Summary: Python library for BespON
+
+Development: http://github.com/gpoore/bespon_py
+
+Documentation: http://github.com/gpoore/bespon_py
 
 The bespon package for Python encodes and decodes
 data in the BespON format.
