@@ -1,13 +1,13 @@
 {% set name = "BespON" %}
-{% set version = "0.6.0" %}
+{% set version = "0.7.0" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 2f2bda67fea8ee95c8aa7e885835ab88bdbfa392a94077ce1c9d29017420ce7a
+  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name|lower }}-{{ version }}.tar.gz
+  sha256: 746b57c38baaea97725c155f4a2f6cee408552a0353ceeea584198d09340cfc4
 
 build:
   noarch: python
